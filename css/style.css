@@ -1,0 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.landing{
+    background-image: url('../images/h_img.jpg');
+}
