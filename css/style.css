@@ -144,7 +144,9 @@ portfolio {
 }
 
 .contact {
-  background-image: url(/images/c_image.jpg);
+  background-image: url(../images/c_image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 400px;
   padding: 20px;
   display: flex;
