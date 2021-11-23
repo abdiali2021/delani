@@ -4,13 +4,14 @@
 ## Description
 { This is the official webpage portfolio of delani studio}
 ## Setup/Installation Requirements
-* Clone the repo {git clone }
+* Clone the repo {git clone https://abdiali2021.github.io/delani/ }
 you need to have the following to build the web page:
 
 Ubuntu.
 VS code.
 Github.
 ## Live link
+https://abdiali2021.github.io/delani/
 ## Known Bugs
 No known bugs
 ## Technologies Used
